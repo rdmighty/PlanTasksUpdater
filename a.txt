@@ -1,0 +1,5 @@
+Id: 1	ParentId: 	 Percent: 98	Tittle: Task 1	 Indentation: 0	 Order: 1	 TaskId: 1 	PlannedHours: 39 	 StartDate:08-Jul-2019	FinishDate: 18-Jul-2019
+Id: 2	ParentId: 1	 Percent: 98	Tittle: Task 2	 Indentation: 1	 Order: 1	 TaskId: 1.1 	PlannedHours: 26 	 StartDate:08-Jul-2019	FinishDate: 13-Jul-2019
+Id: 3	ParentId: 1	 Percent: 98	Tittle: Task 3	 Indentation: 1	 Order: 2	 TaskId: 1.2 	PlannedHours: 13 	 StartDate:11-Jul-2019	FinishDate: 18-Jul-2019
+Id: 4	ParentId: 	 Percent: 98	Tittle: Milestone 1	 Indentation: 0	 Order: 2	 TaskId: 2 	PlannedHours: 39 	 StartDate:08-Jul-2019	FinishDate: 18-Jul-2019
+PlannedHours: 39	Percent: 98	Start: 08-Jul-2019	End: 18-Jul-2019

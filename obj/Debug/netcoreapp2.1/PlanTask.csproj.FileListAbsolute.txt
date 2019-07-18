@@ -1,0 +1,11 @@
+E:\Programs\C#\PlanTask\bin\Debug\netcoreapp2.1\PlanTask.deps.json
+E:\Programs\C#\PlanTask\bin\Debug\netcoreapp2.1\PlanTask.runtimeconfig.json
+E:\Programs\C#\PlanTask\bin\Debug\netcoreapp2.1\PlanTask.runtimeconfig.dev.json
+E:\Programs\C#\PlanTask\bin\Debug\netcoreapp2.1\PlanTask.dll
+E:\Programs\C#\PlanTask\bin\Debug\netcoreapp2.1\PlanTask.pdb
+E:\Programs\C#\PlanTask\obj\Debug\netcoreapp2.1\PlanTask.csprojAssemblyReference.cache
+E:\Programs\C#\PlanTask\obj\Debug\netcoreapp2.1\PlanTask.csproj.CoreCompileInputs.cache
+E:\Programs\C#\PlanTask\obj\Debug\netcoreapp2.1\PlanTask.AssemblyInfoInputs.cache
+E:\Programs\C#\PlanTask\obj\Debug\netcoreapp2.1\PlanTask.AssemblyInfo.cs
+E:\Programs\C#\PlanTask\obj\Debug\netcoreapp2.1\PlanTask.dll
+E:\Programs\C#\PlanTask\obj\Debug\netcoreapp2.1\PlanTask.pdb
