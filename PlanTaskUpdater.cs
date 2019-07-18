@@ -113,6 +113,7 @@ public class PlanTasksUpdater : PlanTasks
             {
                 while (lastParent != null && lastParent.Indentation >= task.Indentation)
                 {
+                    // Make changes in the UI accordingly
                     parents.RemoveAt(parents.Count - 1);
                     if (parents.Count > 0)
                         lastParent = parents[parents.Count - 1];
